@@ -1,6 +1,3 @@
-Nouveau ! Raccourcis clavier … 
-Les raccourcis clavier de Drive ont été mis à jour pour vous permettre de naviguer à l'aide des premières lettres
-
 #V2 all orbits one satelite + shadow positions (takes a long execution time) with menu =)
 #lien utile : http://orbitsimulator.com/formulas/OrbitalElements.html
 #imports
